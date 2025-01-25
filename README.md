@@ -1,17 +1,44 @@
 # Flutter Riverpod Todo App
 
-This is a simple Todo app built using Flutter and Riverpod, demonstrating how to perform CRUD (Create, Read, Update, Delete) operations in a clean and maintainable way. Riverpod is used as the state management solution for the app, promoting a declarative and efficient approach to handling the application state.
+This is a Todo app built using Flutter and Riverpod, showcasing CRUD (Create, Read, Update, Delete) operations with clean and maintainable code. Riverpod is used for state management, providing a declarative and efficient approach to handling the app's state.
 
-## Getting Started
+### Features:
+- **Add New Task**: Create new tasks with titles and descriptions.
+- **Delete Task**: Remove tasks from the list with a simple swipe or click.
+- **Update Task**: Edit the details of existing tasks, including title and description.
+- **Mark Task as Completed**: Mark tasks as completed and distinguish them visually.
+- **Sort Tasks by Date**: Automatically sorts tasks based on the creation or due date.
 
-```This project is a starting point for a Flutter application.```
+### Tech Stack:
+- **Flutter**: Framework used for building the mobile app.
+- **Riverpod**: State management solution used for managing the app's state efficiently.
+
+### Devices
+- Android
+- iOS
+
+### Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rupesh88899/Todo-app.git
+
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd todo-app
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+### Contribution
+We welcome contributions! Feel free to fork the repository and submit pull requests to improve Todo.
 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### License:
+This project is licensed under the MIT License
