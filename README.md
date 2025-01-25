@@ -40,5 +40,20 @@ This is a Todo app built using Flutter and Riverpod, showcasing CRUD (Create, Re
 We welcome contributions! Feel free to fork the repository and submit pull requests to improve Todo.
 
 
+
+<p align="left">
+ <img width="200" alt="iPhone13Mockup3" src="https://github.com/rupesh88899/Todo-app/blob/main/1.png" />
+
+<img width="200" alt="iPhone13Mockup2" src="https://github.com/rupesh88899/Todo-app/blob/main/2.png" />
+  
+<img width="200" alt="iPhone13Mockup1" src="https://github.com/rupesh88899/Todo-app/blob/main/3.png" />
+</p>
+
+
+
+
 ### License:
 This project is licensed under the MIT License
+
+
+
