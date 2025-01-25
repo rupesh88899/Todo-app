@@ -4,8 +4,8 @@ This is a simple Todo app built using Flutter and Riverpod, demonstrating how to
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-[GitHub Repository](https://github.com/rupesh88899/Todo-app)
+'''This project is a starting point for a Flutter application.'''
+
 
 A few resources to get you started if this is your first Flutter project:
 
